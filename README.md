@@ -1,1 +1,1 @@
-# Data-Visulization-Dashboard
+# Data-Visualization-Dashboard
