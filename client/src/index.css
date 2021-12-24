@@ -1,0 +1,45 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(148, 138, 138);
+}
+#heading{
+  text-align: center;
+  background-color: aqua;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+select{
+  height:30px;
+  width:150px;
+  margin-left: 30px;
+}
+select:hover{
+  box-shadow: 2px 2px 2px 1px blueviolet;
+}
+#filter-cont{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#grp-cont{
+  display: flex;
+  flex-direction: row;
+}
+#graph_cont{
+  margin-top:10%;
+  display: flex;
+  justify-content: space-around;
+}
+input{
+  margin-left: 30px;
+  height: 30px;
+  width:90px;
+  cursor: pointer;
+}
+input:hover{
+  box-shadow: 2px 2px 2px 1px orange;
+}
+#cont{
+  border:1px solid black;
+  margin-top: 30px;
+}
